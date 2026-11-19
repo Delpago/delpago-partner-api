@@ -1,0 +1,11 @@
+<svg width="640" height="160" viewBox="0 0 640 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="160" rx="18" fill="#0a1f44"/>
+  <g transform="translate(40,44)">
+    <rect width="72" height="72" rx="20" fill="#1766ff"/>
+    <path d="M20 22h17a13.5 13.5 0 0 1 0 27H20V22Z" fill="#fff"/>
+    <circle cx="37" cy="36" r="5.4" fill="#1766ff"/>
+  </g>
+  <text x="136" y="74" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#ffffff">DelPago</text>
+  <text x="137" y="104" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" fill="#f5b027">Partner Payments API</text>
+  <text x="137" y="128" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#9fb2d8">Non-custodial payment infrastructure · One integration, 21+ gateways</text>
+</svg>
