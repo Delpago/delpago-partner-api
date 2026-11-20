@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/banner.svg" alt="DelPago Partner Payments API" width="640">
+  <img src=".github/banner.png" alt="DelPago Partner Payments API" width="640">
 </p>
 
 <p align="center">
